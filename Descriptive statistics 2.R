@@ -1,0 +1,5 @@
+View(Descriptive_Statistics)
+mean(Descriptive_Statistics$`Measure X`)
+sd(Descriptive_Statistics$`Measure X`)
+var(Descriptive_Statistics$`Measure X`)
+boxplot(Descriptive_Statistics$`Measure X`,horizontal = TRUE)
